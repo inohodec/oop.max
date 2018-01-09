@@ -25,3 +25,4 @@ class RocketFly implements Features {
         // TODO: Implement flying() method.
     }
 }
+echo "HI";
